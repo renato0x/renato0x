@@ -1,6 +1,6 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Renato Monteiro</title>
-  <desc id="desc">Desenvolvedor de software focado em produto, automação e privacidade</desc>
+  <desc id="desc">Desenvolvedor de software focado em produto, web, desktop e automação</desc>
   <style>
     .pulse { animation: pulse 2.4s ease-in-out infinite; }
     .cursor { animation: blink 1s steps(1) infinite; }

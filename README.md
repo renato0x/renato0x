@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-header.svg" alt="Renato Monteiro - desenvolvedor de software" />
+<img width="100%" src="./assets/profile-header-v2.svg" alt="Renato Monteiro - desenvolvedor de software" />
 
 <a href="https://github.com/renato0x?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-0d1117?style=for-the-badge&logo=github&logoColor=2dd4bf" alt="Projetos" /></a>
 <a href="https://cashpadapp.vercel.app"><img src="https://img.shields.io/badge/CASHPAD_ONLINE-0d1117?style=for-the-badge&logo=vercel&logoColor=f59e0b" alt="Abrir CashPad" /></a>
