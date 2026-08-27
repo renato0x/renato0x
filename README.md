@@ -97,23 +97,6 @@ Hoje, meu trabalho gira principalmente em torno de:
 | **IA & automação** | Whisper local, processamento de áudio, scripts Python e automação de fluxos |
 | **Qualidade** | Git, Playwright, ESLint, segurança por padrão, acessibilidade e UX |
 
-## Como eu penso produto
-
-```text
-problema real
-    ↓
-entender o fluxo e eliminar atrito
-    ↓
-construir a menor solução realmente útil
-    ↓
-medir, testar, distribuir e lapidar
-```
-
-- **Privacidade é requisito**, não acabamento.
-- **Offline-first** é uma vantagem concreta quando a rede não deveria mandar na experiência.
-- **Interface boa explica o sistema** sem exigir um manual ao lado.
-- **Tecnologia serve ao produto**; a stack vem depois do problema.
-- **Entrega também é engenharia**: instalação, atualização e manutenção fazem parte da solução.
 
 ## Atividade no GitHub
 
