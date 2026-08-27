@@ -108,7 +108,6 @@ Hoje, meu trabalho gira principalmente em torno de:
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renato0x&theme=github_dark" alt="Histórico de contribuições de Renato" />
 
-<sub>Os cartões acima são atualizados automaticamente a partir da atividade pública no GitHub.</sub>
 
 </div>
 
