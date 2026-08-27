@@ -1,0 +1,58 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Renato Monteiro</title>
+  <desc id="desc">Desenvolvedor de software focado em produto, automação e experiências offline-first</desc>
+  <style>
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    .track { animation: travel 7s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+    @keyframes blink { 0%, 45% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes travel { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(78px); } }
+  </style>
+  <rect width="1200" height="260" rx="8" fill="#0D1117"/>
+  <path d="M0 1H1200M0 259H1200" stroke="#30363D"/>
+  <g opacity=".16" stroke="#8B949E">
+    <path d="M0 52H1200M0 104H1200M0 156H1200M0 208H1200"/>
+    <path d="M120 0V260M240 0V260M360 0V260M480 0V260M600 0V260M720 0V260M840 0V260M960 0V260M1080 0V260"/>
+  </g>
+  <g transform="translate(54 46)">
+    <rect width="76" height="76" rx="8" fill="#161B22" stroke="#30363D"/>
+    <path d="M22 25L11 38L22 51" stroke="#2DD4BF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M54 25L65 38L54 51" stroke="#F59E0B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M44 17L32 59" stroke="#FB7185" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="158" y="83" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">RENATO MONTEIRO</text>
+  <rect class="cursor" x="549" y="49" width="4" height="42" rx="2" fill="#2DD4BF"/>
+  <text x="160" y="116" fill="#8B949E" font-family="JetBrains Mono, Consolas, monospace" font-size="17">software developer  ·  product builder  ·  renato0x</text>
+  <g transform="translate(160 150)" font-family="JetBrains Mono, Consolas, monospace" font-size="14">
+    <rect width="177" height="34" rx="5" fill="#161B22" stroke="#30363D"/>
+    <circle class="pulse" cx="17" cy="17" r="5" fill="#2DD4BF"/>
+    <text x="31" y="22" fill="#C9D1D9">OFFLINE-FIRST</text>
+    <g transform="translate(190)">
+      <rect width="126" height="34" rx="5" fill="#161B22" stroke="#30363D"/>
+      <circle class="pulse" cx="17" cy="17" r="5" fill="#F59E0B" style="animation-delay:.6s"/>
+      <text x="31" y="22" fill="#C9D1D9">WEB + DESKTOP</text>
+    </g>
+    <g transform="translate(329)">
+      <rect width="151" height="34" rx="5" fill="#161B22" stroke="#30363D"/>
+      <circle class="pulse" cx="17" cy="17" r="5" fill="#FB7185" style="animation-delay:1.2s"/>
+      <text x="31" y="22" fill="#C9D1D9">PRIVACY BY DESIGN</text>
+    </g>
+  </g>
+  <g transform="translate(866 42)">
+    <rect width="278" height="174" rx="8" fill="#161B22" stroke="#30363D"/>
+    <circle cx="22" cy="20" r="5" fill="#FB7185"/>
+    <circle cx="40" cy="20" r="5" fill="#F59E0B"/>
+    <circle cx="58" cy="20" r="5" fill="#2DD4BF"/>
+    <path d="M0 39H278" stroke="#30363D"/>
+    <g font-family="JetBrains Mono, Consolas, monospace" font-size="13">
+      <text x="20" y="70" fill="#8B949E">$ whoami</text>
+      <text x="20" y="94" fill="#2DD4BF">renato0x</text>
+      <text x="20" y="122" fill="#8B949E">$ current-focus</text>
+      <text x="20" y="146" fill="#F59E0B">useful software</text>
+    </g>
+    <g class="track"><rect x="20" y="159" width="38" height="3" rx="1.5" fill="#FB7185"/></g>
+  </g>
+  <text x="54" y="231" fill="#484F58" font-family="JetBrains Mono, Consolas, monospace" font-size="12">MONTES CLAROS · MG · BRAZIL</text>
+  <text x="1145" y="231" text-anchor="end" fill="#484F58" font-family="JetBrains Mono, Consolas, monospace" font-size="12">BUILD · TEST · SHIP · REFINE</text>
+</svg>

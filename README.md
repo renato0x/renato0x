@@ -1,51 +1,150 @@
-<h1 align="center">Renato Monteiro</h1>
+<div align="center">
 
-<p align="center">
-  Desenvolvedor criando aplicações web, ferramentas úteis e experimentos com foco em produto, automação e boa experiência de uso.
-</p>
+<img width="100%" src="./assets/profile-header.svg" alt="Renato Monteiro - desenvolvedor de software" />
 
-<p align="center">
-  <a href="https://github.com/renato0x?tab=repositories">Projetos</a>
-  ·
-  <a href="https://github.com/renato0x">GitHub</a>
-</p>
+<a href="https://github.com/renato0x?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-0d1117?style=for-the-badge&logo=github&logoColor=2dd4bf" alt="Projetos" /></a>
+<a href="https://cashpadapp.vercel.app"><img src="https://img.shields.io/badge/CASHPAD_ONLINE-0d1117?style=for-the-badge&logo=vercel&logoColor=f59e0b" alt="Abrir CashPad" /></a>
+<img src="https://komarev.com/ghpvc/?username=renato0x&style=for-the-badge&color=0d1117&label=VISITAS" alt="Visitas ao perfil" />
 
----
+<br />
 
-### Sobre mim
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&height=45&lines=Transformando+problemas+reais+em+software+util;Web%2C+desktop%2C+automacao+e+experiencias+offline-first;Privacidade%2C+produto+e+boa+engenharia+desde+o+inicio" alt="Apresentação animada" /></a>
 
-- Construo projetos práticos usando principalmente **TypeScript**, **JavaScript**, **Python**, **HTML** e **C#**.
-- Gosto de transformar ideias em interfaces funcionais, automações e ferramentas que economizam tempo.
-- Atualmente organizando meus projetos públicos e evoluindo meu portfólio no GitHub.
+</div>
 
-### Tecnologias
+## Olá, eu sou o Renato
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-</p>
+Desenvolvedor de software focado em transformar rotinas complicadas em produtos simples de usar. Trabalho entre **interfaces web**, **aplicações desktop**, **automação** e **ferramentas com IA**, sempre pensando no produto inteiro: arquitetura, experiência, privacidade, distribuição e manutenção.
 
-### Projetos em destaque
+Hoje, meu trabalho gira principalmente em torno de:
 
-| Projeto | Stack | Status |
-| --- | --- | --- |
-| [CashPad](https://github.com/renato0x/CashPad) | JavaScript | Público |
-| [Transcripty](https://github.com/renato0x/Transcripty) | Python | Público |
-| [Gection](https://github.com/renato0x/Gection) | TypeScript | Público |
-| [OSLab-Showcase](https://github.com/renato0x/OSLab-Showcase) | Showcase | Público |
+- aplicações **offline-first** que respeitam os dados do usuário;
+- sistemas de gestão construídos para operações reais;
+- produtos web rápidos, responsivos e instaláveis;
+- ferramentas locais que usam IA sem sacrificar privacidade;
+- interfaces que tornam regras complexas fáceis de entender.
 
-### GitHub
+> Gosto de software que resolve um problema de verdade, funciona bem fora da demonstração e continua agradável depois do centésimo uso.
 
-<p align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=renato0x&show_icons=true&theme=transparent&hide_border=true">
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato0x&layout=compact&theme=transparent&hide_border=true">
-</p>
+## O que estou construindo
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">CashPad</h3>
+      <p align="center"><strong>Divisão de gastos sem atrito</strong></p>
+      <p>PWA mobile-first para registrar despesas, dividir contas e calcular saldos entre amigos. Funciona offline, sincroniza pelo Firebase e compartilha o resumo no WhatsApp.</p>
+      <p align="center"><code>JavaScript</code> <code>Firebase</code> <code>PWA</code> <code>Vercel</code></p>
+      <p align="center"><a href="https://cashpadapp.vercel.app"><strong>Abrir app</strong></a> · <a href="https://github.com/renato0x/CashPad"><strong>Ver código</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Transcripty</h3>
+      <p align="center"><strong>Transcrição privada no Windows</strong></p>
+      <p>Aplicativo desktop que converte voz em texto localmente com Whisper. Tem atalho global, push-to-talk, detecção de voz e cola o resultado direto no cursor.</p>
+      <p align="center"><code>Python</code> <code>PySide6</code> <code>Whisper</code> <code>PyInstaller</code></p>
+      <p align="center"><a href="https://github.com/renato0x/Transcripty/releases"><strong>Baixar</strong></a> · <a href="https://github.com/renato0x/Transcripty"><strong>Ver código</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Gection</h3>
+      <p align="center"><strong>Finanças pessoais em ação</strong></p>
+      <p>Sistema desktop nativo e privado para contas, transações, faturas, orçamentos, assinaturas e planejamento financeiro. Os dados permanecem na máquina.</p>
+      <p align="center"><code>React</code> <code>TypeScript</code> <code>Tauri</code> <code>Rust</code> <code>SQLite</code></p>
+      <p align="center"><a href="https://github.com/renato0x/Gection"><strong>Conhecer projeto</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">AltoLab OS</h3>
+      <p align="center"><strong>Gestão feita sob medida</strong></p>
+      <p>Plataforma operacional para assistência técnica, com ordens de serviço em Kanban, clientes, agenda, financeiro, relatórios e integração com WhatsApp.</p>
+      <p align="center"><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code></p>
+      <p align="center"><a href="https://github.com/renato0x/OSLab-Showcase"><strong>Ver showcase</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  Sempre construindo, testando e lapidando ideias.
-</p>
+<div align="center">
+  <a href="https://github.com/renato0x?tab=repositories"><strong>Explorar todos os repositórios →</strong></a>
+</div>
+
+## Tecnologias e ferramentas
+
+<div align="center">
+
+**Uso no dia a dia**
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,python,rust,cs&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Python, Rust e C#" />
+
+<br /><br />
+
+**Dados, plataforma e qualidade**
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,sqlite,vercel,git,github,vscode&theme=dark" alt="PostgreSQL, Supabase, Firebase, SQLite, Vercel, Git, GitHub e VS Code" />
+
+</div>
+
+<br />
+
+| Área | Ferramentas e práticas |
+|:--|:--|
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, design responsivo e PWA |
+| **Desktop** | Tauri, Rust, PySide6, C#, aplicações locais e empacotamento para Windows |
+| **Dados & backend** | PostgreSQL, Supabase, Firebase Firestore, SQLite, autenticação e APIs |
+| **IA & automação** | Whisper local, processamento de áudio, scripts Python e automação de fluxos |
+| **Qualidade** | Git, Playwright, ESLint, segurança por padrão, acessibilidade e UX |
+
+## Como eu penso produto
+
+```text
+problema real
+    ↓
+entender o fluxo e eliminar atrito
+    ↓
+construir a menor solução realmente útil
+    ↓
+medir, testar, distribuir e lapidar
+```
+
+- **Privacidade é requisito**, não acabamento.
+- **Offline-first** é uma vantagem concreta quando a rede não deveria mandar na experiência.
+- **Interface boa explica o sistema** sem exigir um manual ao lado.
+- **Tecnologia serve ao produto**; a stack vem depois do problema.
+- **Entrega também é engenharia**: instalação, atualização e manutenção fazem parte da solução.
+
+## Atividade no GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=renato0x&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2dd4bf&text_color=8b949e&icon_color=f59e0b&ring_color=fb7185" alt="Estatísticas de Renato no GitHub" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=renato0x&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2dd4bf&text_color=8b949e" alt="Linguagens mais usadas por Renato" />
+
+<br />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=renato0x&hide_border=true&background=00000000&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=8B949E&currStreakNum=FB7185&sideNums=F59E0B&dates=8B949E&stroke=30363D" alt="Sequência de contribuições de Renato" />
+
+<br />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renato0x&theme=github_dark" alt="Histórico de contribuições de Renato" />
+
+<sub>Os cartões acima são atualizados automaticamente a partir da atividade pública no GitHub.</sub>
+
+</div>
+
+## Vamos conversar
+
+Quer trocar uma ideia sobre produto, software desktop, experiências offline-first ou alguma colaboração? O melhor ponto de partida é o próprio GitHub.
+
+<div align="center">
+
+<a href="https://github.com/renato0x"><img src="https://img.shields.io/badge/@renato0x-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Perfil no GitHub" /></a>
+<a href="https://github.com/renato0x?tab=repositories"><img src="https://img.shields.io/badge/VER_REPOSITÓRIOS-2dd4bf?style=for-the-badge&logo=github&logoColor=0d1117" alt="Ver repositórios" /></a>
+
+<br /><br />
+
+<sub>Construindo software útil, uma iteração de cada vez.</sub>
+
+</div>
