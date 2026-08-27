@@ -120,11 +120,7 @@ medir, testar, distribuir e lapidar
 <div align="center">
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=renato0x&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2dd4bf&text_color=8b949e&icon_color=f59e0b&ring_color=fb7185" alt="Estatísticas de Renato no GitHub" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=renato0x&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2dd4bf&text_color=8b949e" alt="Linguagens mais usadas por Renato" />
-
-<br />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=renato0x&hide_border=true&background=00000000&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=8B949E&currStreakNum=FB7185&sideNums=F59E0B&dates=8B949E&stroke=30363D" alt="Sequência de contribuições de Renato" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=renato0x&layout=compact&langs_count=8&card_width=467&hide_border=true&bg_color=00000000&title_color=2dd4bf&text_color=8b949e" alt="Linguagens mais usadas por Renato" />
 
 <br />
 
