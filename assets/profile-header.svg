@@ -1,6 +1,6 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Renato Monteiro</title>
-  <desc id="desc">Desenvolvedor de software focado em produto, automação e experiências offline-first</desc>
+  <desc id="desc">Desenvolvedor de software focado em produto, automação e privacidade</desc>
   <style>
     .pulse { animation: pulse 2.4s ease-in-out infinite; }
     .cursor { animation: blink 1s steps(1) infinite; }
@@ -27,7 +27,7 @@
   <g transform="translate(160 150)" font-family="JetBrains Mono, Consolas, monospace" font-size="14">
     <rect width="177" height="34" rx="5" fill="#161B22" stroke="#30363D"/>
     <circle class="pulse" cx="17" cy="17" r="5" fill="#2DD4BF"/>
-    <text x="31" y="22" fill="#C9D1D9">OFFLINE-FIRST</text>
+    <text x="31" y="22" fill="#C9D1D9">PRODUCT-DRIVEN</text>
     <g transform="translate(190)">
       <rect width="126" height="34" rx="5" fill="#161B22" stroke="#30363D"/>
       <circle class="pulse" cx="17" cy="17" r="5" fill="#F59E0B" style="animation-delay:.6s"/>

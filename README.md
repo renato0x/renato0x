@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&height=45&lines=Transformando+problemas+reais+em+software+util;Web%2C+desktop%2C+automacao+e+experiencias+offline-first;Privacidade%2C+produto+e+boa+engenharia+desde+o+inicio" alt="Apresentação animada" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&height=45&lines=Transformando+problemas+reais+em+software+util;Web%2C+desktop%2C+automacao+e+produtos+bem+resolvidos;Privacidade%2C+produto+e+boa+engenharia+desde+o+inicio" alt="Apresentação animada" /></a>
 
 </div>
 
@@ -18,7 +18,7 @@ Desenvolvedor de software focado em transformar rotinas complicadas em produtos 
 
 Hoje, meu trabalho gira principalmente em torno de:
 
-- aplicações **offline-first** que respeitam os dados do usuário;
+- aplicações confiáveis que respeitam os dados do usuário;
 - sistemas de gestão construídos para operações reais;
 - produtos web rápidos, responsivos e instaláveis;
 - ferramentas locais que usam IA sem sacrificar privacidade;
@@ -33,7 +33,7 @@ Hoje, meu trabalho gira principalmente em torno de:
     <td width="50%" valign="top">
       <h3 align="center">CashPad</h3>
       <p align="center"><strong>Divisão de gastos sem atrito</strong></p>
-      <p>PWA mobile-first para registrar despesas, dividir contas e calcular saldos entre amigos. Funciona offline, sincroniza pelo Firebase e compartilha o resumo no WhatsApp.</p>
+      <p>PWA mobile-first para registrar despesas, dividir contas e calcular saldos entre amigos. Sincroniza pelo Firebase e compartilha o resumo no WhatsApp.</p>
       <p align="center"><code>JavaScript</code> <code>Firebase</code> <code>PWA</code> <code>Vercel</code></p>
       <p align="center"><a href="https://cashpadapp.vercel.app"><strong>Abrir app</strong></a> · <a href="https://github.com/renato0x/CashPad"><strong>Ver código</strong></a></p>
     </td>
@@ -97,7 +97,6 @@ Hoje, meu trabalho gira principalmente em torno de:
 | **IA & automação** | Whisper local, processamento de áudio, scripts Python e automação de fluxos |
 | **Qualidade** | Git, Playwright, ESLint, segurança por padrão, acessibilidade e UX |
 
-
 ## Atividade no GitHub
 
 <div align="center">
@@ -115,7 +114,7 @@ Hoje, meu trabalho gira principalmente em torno de:
 
 ## Vamos conversar
 
-Quer trocar uma ideia sobre produto, software desktop, experiências offline-first ou alguma colaboração? O melhor ponto de partida é o próprio GitHub.
+Quer trocar uma ideia sobre produto, software desktop, automação ou alguma colaboração? O melhor ponto de partida é o próprio GitHub.
 
 <div align="center">
 
