@@ -11,7 +11,7 @@
 
 </div>
 
-## Olá, eu sou o Renato
+## Olá, eu sou Renato
 
 Desenvolvedor de software focado em transformar rotinas complicadas em produtos simples de usar. Trabalho entre **interfaces web**, **aplicações desktop**, **automação** e **ferramentas com IA**, sempre pensando no produto inteiro: arquitetura, experiência, privacidade, distribuição e manutenção.
 
