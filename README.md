@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/profile-header-v2.svg" alt="Renato Monteiro — software developer working across web, desktop, and automation" />
+  <img width="100%" src="./assets/profile-header-minimal.svg" alt="Renato Monteiro — software developer working across web, desktop, and automation" />
 </p>
 
 ## Selected work
