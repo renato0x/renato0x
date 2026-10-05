@@ -51,6 +51,24 @@
 
 ---
 
+### Reconhecimento institucional
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/INICIATIVA_OFICIAL-SEE%2FMG-1f6f54?style=for-the-badge" alt="Iniciativa oficial da SEE/MG" />
+
+  <h2>Biblioteca Gastão Valle × SEE/MG</h2>
+
+  <p><strong>Sistema oficial de gestão de bibliotecas da rede estadual de Minas Gerais, atualmente em desenvolvimento pela equipe original do projeto.</strong></p>
+
+  <p>Atuo no desenvolvimento back-end e no design de interface.</p>
+
+  <p><a href="https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca">Matéria oficial</a> · <a href="https://www.gastaovalle.com/pages/equipe-dev.html">Equipe</a> · <a href="https://github.com/Ithaloluzdepanela/biblioteca-gastao">Código-fonte</a></p>
+
+</div>
+
+---
+
 ### Upcoming: Project Entreggo
 
 > **Delivery management, made simpler.**<br />
