@@ -53,7 +53,7 @@
 
 ### Upcoming: Project Entreggo
 
-> **Delivery management, made simpler.**  
+> **Delivery management, made simpler.**<br />
 > An early-stage system for organizing and tracking deliveries.
 
 ---
