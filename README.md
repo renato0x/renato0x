@@ -26,7 +26,7 @@
 
 ---
 
-### In Progress...
+### Current projects
 
 <table>
   <tr>
