@@ -51,6 +51,13 @@
 
 ---
 
+### Upcoming: Entreggo
+
+> **Delivery management, made simpler.**  
+> An early-stage system for organizing and tracking deliveries.
+
+---
+
 ### GitHub analytics
 
 <p align="center">
