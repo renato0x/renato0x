@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=600&amp;size=36&amp;duration=2400&amp;pause=800&amp;color=F0F6FC&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=70&amp;lines=Hi%2C+I'm+Renato.;Software+Developer;Web+%C2%B7+Desktop+%C2%B7+Automation" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=600&amp;size=36&amp;duration=2400&amp;pause=800&amp;color=1F2328&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=70&amp;lines=Hi%2C+I'm+Renato.;Software+Developer;Web+%C2%B7+Desktop+%C2%B7+Automation" />
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=600&amp;size=36&amp;duration=2400&amp;pause=800&amp;color=1F2328&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=70&amp;lines=Hi%2C+I'm+Renato.;Software+Developer;Web+%C2%B7+Desktop+%C2%B7+Automation" alt="Hi, I'm Renato — Software Developer — Web, Desktop, and Automation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=600&amp;size=36&amp;duration=1800&amp;pause=650&amp;repeat=false&amp;color=F0F6FC&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=70&amp;lines=Hi%2C+I'm+Renato.;Software+Developer;Web+%C2%B7+Desktop+%C2%B7+Automation" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=600&amp;size=36&amp;duration=1800&amp;pause=650&amp;repeat=false&amp;color=1F2328&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=70&amp;lines=Hi%2C+I'm+Renato.;Software+Developer;Web+%C2%B7+Desktop+%C2%B7+Automation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=600&amp;size=36&amp;duration=1800&amp;pause=650&amp;repeat=false&amp;color=1F2328&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=70&amp;lines=Hi%2C+I'm+Renato.;Software+Developer;Web+%C2%B7+Desktop+%C2%B7+Automation" alt="Hi, I'm Renato — Software Developer — Web, Desktop, and Automation" />
   </picture>
 
   <p>Building practical software across web, desktop, and automation.</p>
