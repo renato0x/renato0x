@@ -51,7 +51,7 @@
 
 ---
 
-### Upcoming: Entreggo
+### Upcoming: Project Entreggo
 
 > **Delivery management, made simpler.**  
 > An early-stage system for organizing and tracking deliveries.
