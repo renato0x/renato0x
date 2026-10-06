@@ -55,15 +55,22 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/INICIATIVA_OFICIAL-SEE%2FMG-1f6f54?style=for-the-badge" alt="Iniciativa oficial da SEE/MG" />
+  <a href="https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca">
+    <img src="https://img.shields.io/badge/INICIATIVA_OFICIAL-SEE%2FMG-1f6f54?style=for-the-badge" alt="Iniciativa oficial da SEE/MG" />
+  </a>
 
-  <h2>Biblioteca Gastão Valle × SEE/MG</h2>
+  <h2>SUB</h2>
+  <h3>Sistema Único Bibliotecário</h3>
 
-  <p><strong>Sistema oficial de gestão de bibliotecas da rede estadual de Minas Gerais, atualmente em desenvolvimento pela equipe original do projeto.</strong></p>
+  <p>Sistema unificado de gestão de bibliotecas em desenvolvimento para toda a rede estadual de ensino de Minas Gerais.</p>
 
-  <p>Atuo no desenvolvimento back-end e no design de interface.</p>
+  <p>Atuei como desenvolvedor full stack no projeto Biblioteca Gastão Valle e atualmente participo de sua refatoração para o SUB.</p>
 
-  <p><a href="https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca">Matéria oficial</a> · <a href="https://www.gastaovalle.com/pages/equipe-dev.html">Equipe</a> · <a href="https://github.com/Ithaloluzdepanela/biblioteca-gastao">Código-fonte</a></p>
+  <p>
+    <a href="https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca"><strong>Matéria oficial ↗</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://www.gastaovalle.com/pages/equipe-dev.html">Equipe do projeto</a>
+  </p>
 
 </div>
 
