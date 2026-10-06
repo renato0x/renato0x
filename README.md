@@ -51,7 +51,7 @@
 
 ---
 
-### Reconhecimento institucional
+### institutional recognition
 
 <div align="center">
 
