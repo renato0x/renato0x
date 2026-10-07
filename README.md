@@ -52,7 +52,7 @@
       <br />
       <table>
         <tr>
-          <td align="center" bgcolor="#eef4ff">
+          <td align="center">
             <img src="https://raw.githubusercontent.com/renato0x/renato0x/main/assets/portal-revalle-mark.png" width="56" height="56" alt="Símbolo do Portal Revalle" />
           </td>
         </tr>
