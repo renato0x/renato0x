@@ -30,28 +30,23 @@
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <br />
-      <img src="https://raw.githubusercontent.com/renato0x/CashPad/main/src/icons/icon.svg" width="72" height="72" alt="CashPad icon" />
+      <img src="https://raw.githubusercontent.com/renato0x/CashPad/main/src/icons/icon.svg" width="64" height="64" alt="CashPad icon" />
       <h3>CashPad</h3>
       <p>Divisão de gastos para grupos, com saldos em tempo real e sincronização entre dispositivos.</p>
       <p><code>JavaScript</code> <code>Firebase</code> <code>PWA</code></p>
       <p><a href="https://cashpadapp.vercel.app"><strong>Open app ↗</strong></a> · <a href="https://github.com/renato0x/CashPad">Source</a></p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <br />
-      <img src="https://raw.githubusercontent.com/renato0x/Transcripty/master/logo.bmp" width="72" height="72" alt="Transcripty icon" />
+      <img src="https://raw.githubusercontent.com/renato0x/Transcripty/master/logo.bmp" width="64" height="64" alt="Transcripty icon" />
       <h3>Transcripty</h3>
       <p>Transcrição de voz local para Windows, com atalho global e inserção direta no cursor.</p>
       <p><code>Python</code> <code>PySide6</code> <code>Whisper</code></p>
       <p><a href="https://github.com/renato0x/Transcripty/releases"><strong>Download ↗</strong></a> · <a href="https://github.com/renato0x/Transcripty">Source</a></p>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="100%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <br />
       <img src="https://raw.githubusercontent.com/renato0x/renato0x/main/assets/portal-revalle-mark.png" width="64" height="64" alt="Símbolo do Portal Revalle" />
       <h3>Portal Revalle</h3>
