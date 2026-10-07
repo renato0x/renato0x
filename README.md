@@ -47,6 +47,21 @@
       <p><a href="https://github.com/renato0x/Transcripty/releases"><strong>Download ↗</strong></a> · <a href="https://github.com/renato0x/Transcripty">Source</a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br />
+      <table>
+        <tr>
+          <td align="center" bgcolor="#eef4ff">
+            <img src="https://raw.githubusercontent.com/renato0x/renato0x/main/assets/portal-revalle-mark.png" width="56" height="56" alt="Símbolo do Portal Revalle" />
+          </td>
+        </tr>
+      </table>
+      <h3>Portal Revalle</h3>
+      <p>Portal institucional desenvolvido por mim em parceria com o Grêmio Estudantil Revalle, para aproximar estudantes das notícias, projetos e iniciativas do grêmio.</p>
+      <p><code>Educação</code> <code>Projeto colaborativo</code> <code>Portal institucional</code></p>
+    </td>
+  </tr>
 </table>
 
 ---
