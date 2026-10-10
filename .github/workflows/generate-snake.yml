@@ -59,9 +59,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          temp_dir="$(mktemp -d)"
+          mv dist/* "$temp_dir/"
           git switch --orphan output
-          git rm -rf .
-          mv dist/* .
+          git clean -fdx
+          mv "$temp_dir"/* .
+          rmdir "$temp_dir"
           git add --all
           git commit --allow-empty -m "chore: update contribution snake"
           git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:output
