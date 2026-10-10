@@ -40,11 +40,11 @@
     </td>
     <td width="33%" align="center" valign="top">
       <br />
-      <img src="https://raw.githubusercontent.com/renato0x/Transcripty/master/logo.bmp" width="64" height="64" alt="Transcripty icon" />
-      <h3>Transcripty</h3>
+      <img src="https://raw.githubusercontent.com/renato0x/Transcrypty/master/logo.bmp" width="64" height="64" alt="Transcrypty icon" />
+      <h3>Transcrypty</h3>
       <p>Transcrição de voz local para Windows, com atalho global e inserção direta no cursor.</p>
       <p><code>Python</code> <code>PySide6</code> <code>Whisper</code></p>
-      <p><a href="https://github.com/renato0x/Transcripty/releases"><strong>Download ↗</strong></a> · <a href="https://github.com/renato0x/Transcripty">Source</a></p>
+      <p><a href="https://github.com/renato0x/Transcrypty/releases"><strong>Download ↗</strong></a> · <a href="https://github.com/renato0x/Transcrypty">Source</a></p>
     </td>
     <td width="33%" align="center" valign="top">
       <br />
