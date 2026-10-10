@@ -73,6 +73,8 @@
 
   <p>Atuei como desenvolvedor full stack no projeto Biblioteca Gastão Valle e atualmente participo de sua refatoração para o SUB.</p>
 
+  <p><sub><code>C#</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>SQL Server Compact (SQL CE)</code></sub></p>
+
   <p>
     <a href="https://github.com/renato0x/SUB-SEEMG"><strong>Ver projeto ↗</strong></a>
     &nbsp;·&nbsp;
