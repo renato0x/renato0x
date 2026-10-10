@@ -66,7 +66,9 @@
     <img src="https://img.shields.io/badge/INICIATIVA_OFICIAL-SEE%2FMG-1f6f54?style=for-the-badge" alt="Iniciativa oficial da SEE/MG" />
   </a>
 
-  <img src="https://raw.githubusercontent.com/renato0x/SUB-SEEMG/main/assets/sub-logo-compact.png" width="72" alt="SUB" />
+  <p>
+    <img src="https://raw.githubusercontent.com/renato0x/SUB-SEEMG/main/assets/sub-logo-compact.png" width="72" alt="SUB" />
+  </p>
   <h3>Sistema Único Bibliotecário</h3>
 
   <p>Sistema unificado de gestão de bibliotecas em desenvolvimento para toda a rede estadual de ensino de Minas Gerais.</p>
