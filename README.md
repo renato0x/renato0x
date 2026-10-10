@@ -36,7 +36,6 @@
       <h3>CashPad</h3>
       <p>Divisão de gastos para grupos, com saldos em tempo real e sincronização entre dispositivos.</p>
       <p><code>JavaScript</code> <code>Firebase</code> <code>PWA</code></p>
-      <p><sub><a href="https://github.com/renato0x/CashPad/stargazers">★ 1</a></sub></p>
       <p><a href="https://cashpadapp.vercel.app"><strong>Open app ↗</strong></a> · <a href="https://github.com/renato0x/CashPad">Source</a></p>
     </td>
     <td width="33%" align="center" valign="top">
@@ -45,7 +44,6 @@
       <h3>Transcrypty</h3>
       <p>Transcrição de voz local para Windows, com atalho global, inserção direta no cursor e interface flutuante minimalista.</p>
       <p><code>Python</code> <code>PySide6</code> <code>Whisper</code></p>
-      <p><sub><a href="https://github.com/renato0x/Transcrypty/stargazers">★ 1</a></sub></p>
       <p><a href="https://github.com/renato0x/Transcrypty/releases"><strong>Download ↗</strong></a> · <a href="https://github.com/renato0x/Transcrypty">Source</a></p>
     </td>
     <td width="33%" align="center" valign="top">
@@ -54,7 +52,6 @@
       <h3>Portal Revalle</h3>
       <p>Portal institucional do Grêmio Estudantil Revalle para notícias, projetos e iniciativas estudantis.</p>
       <p><code>Educação</code> <code>Projeto colaborativo</code> <code>Portal institucional</code></p>
-      <p><sub><a href="https://github.com/renato0x/portal-revalle/stargazers">★ 0</a></sub></p>
     </td>
   </tr>
 </table>
