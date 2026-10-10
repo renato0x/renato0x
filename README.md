@@ -86,7 +86,6 @@
     <a href="https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca"><strong>Matéria oficial ↗</strong></a>
     &nbsp;·&nbsp;
     <a href="https://www.gastaovalle.com/pages/equipe-dev.html">Equipe do projeto</a>
-    &nbsp;·&nbsp;
   </p>
 
 </div>
