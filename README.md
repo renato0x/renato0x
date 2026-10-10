@@ -30,7 +30,7 @@
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td align="center" valign="top">
       <br />
       <img src="https://raw.githubusercontent.com/renato0x/CashPad/main/src/icons/icon.svg" width="64" height="64" alt="CashPad icon" />
       <h3>CashPad</h3>
@@ -38,7 +38,9 @@
       <p><code>JavaScript</code> <code>Firebase</code> <code>PWA</code></p>
       <p><a href="https://cashpadapp.vercel.app"><strong>Open app ↗</strong></a> · <a href="https://github.com/renato0x/CashPad">Source</a></p>
     </td>
-    <td width="33%" align="center" valign="top">
+  </tr>
+  <tr>
+    <td align="center" valign="top">
       <br />
       <img src="https://raw.githubusercontent.com/renato0x/Transcrypty/master/logo.bmp" width="64" height="64" alt="Transcrypty icon" />
       <h3>Transcrypty</h3>
@@ -46,7 +48,9 @@
       <p><code>Python</code> <code>PySide6</code> <code>Whisper</code></p>
       <p><a href="https://github.com/renato0x/Transcrypty/releases"><strong>Download ↗</strong></a> · <a href="https://github.com/renato0x/Transcrypty">Source</a></p>
     </td>
-    <td width="33%" align="center" valign="top">
+  </tr>
+  <tr>
+    <td align="center" valign="top">
       <br />
       <img src="https://raw.githubusercontent.com/renato0x/renato0x/main/assets/portal-revalle-mark.png" width="64" height="64" alt="Símbolo do Portal Revalle" />
       <h3>Portal Revalle</h3>
