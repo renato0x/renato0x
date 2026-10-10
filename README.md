@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/renato0x/SUB-SEEMG/main/assets/sub-logo-compact.png" width="80" alt="Logo do SUB" />
   </a>
 
-  <h3><a href="https://github.com/renato0x/SUB-SEEMG">SUB · Sistema Único Bibliotecário</a></h3>
+  <h3>SUB · Sistema Único Bibliotecário</h3>
 
   <p>Sistema unificado de gestão de bibliotecas em desenvolvimento para toda a rede estadual de ensino de Minas Gerais.</p>
 
