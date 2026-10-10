@@ -50,7 +50,7 @@
       <br />
       <img src="https://raw.githubusercontent.com/renato0x/renato0x/main/assets/portal-revalle-mark.png" width="64" height="64" alt="Símbolo do Portal Revalle" />
       <h3>Portal Revalle</h3>
-      <p>Desenvolvido por mim em parceria com o Grêmio Estudantil Revalle, o portal reúne notícias, projetos e iniciativas para aproximar os estudantes do grêmio.</p>
+      <p>Portal institucional do Grêmio Estudantil Revalle para notícias, projetos e iniciativas estudantis.</p>
       <p><code>Educação</code> <code>Projeto colaborativo</code> <code>Portal institucional</code></p>
     </td>
   </tr>
