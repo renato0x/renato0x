@@ -62,20 +62,23 @@
 
 <div align="center">
 
-  <a href="https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca">
-    <img src="https://img.shields.io/badge/INICIATIVA_OFICIAL-SEE%2FMG-1f6f54?style=for-the-badge" alt="Iniciativa oficial da SEE/MG" />
+  <a href="https://github.com/renato0x/SUB-SEEMG">
+    <img src="https://raw.githubusercontent.com/renato0x/SUB-SEEMG/main/assets/sub-logo-compact.png" width="80" alt="Logo do SUB" />
   </a>
 
-  <p>
-    <img src="https://raw.githubusercontent.com/renato0x/SUB-SEEMG/main/assets/sub-logo-compact.png" width="72" alt="SUB" />
-  </p>
-  <h3>Sistema Único Bibliotecário</h3>
+  <h3><a href="https://github.com/renato0x/SUB-SEEMG">SUB · Sistema Único Bibliotecário</a></h3>
 
   <p>Sistema unificado de gestão de bibliotecas em desenvolvimento para toda a rede estadual de ensino de Minas Gerais.</p>
 
   <p>Atuei como desenvolvedor full stack no projeto Biblioteca Gastão Valle e atualmente participo de sua refatoração para o SUB.</p>
 
   <p><sub><code>C#</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>SQL Server Compact (SQL CE)</code></sub></p>
+
+  <p>
+    <a href="https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca">
+      <img src="https://img.shields.io/badge/INICIATIVA_OFICIAL-SEE%2FMG-1f6f54?style=for-the-badge" alt="Iniciativa oficial da SEE/MG" />
+    </a>
+  </p>
 
   <p>
     <a href="https://github.com/renato0x/SUB-SEEMG"><strong>Ver projeto ↗</strong></a>
