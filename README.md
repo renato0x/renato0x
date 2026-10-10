@@ -42,7 +42,7 @@
       <br />
       <img src="https://raw.githubusercontent.com/renato0x/Transcrypty/master/logo.bmp" width="64" height="64" alt="Transcrypty icon" />
       <h3>Transcrypty</h3>
-      <p>Transcrição de voz local para Windows, com atalho global, inserção direta no cursor e interface flutuante minimalista.</p>
+      <p>Transcrição de voz local para Windows, com atalho global, inserção direta e interface flutuante.</p>
       <p><code>Python</code> <code>PySide6</code> <code>Whisper</code></p>
       <p><a href="https://github.com/renato0x/Transcrypty/releases"><strong>Download ↗</strong></a> · <a href="https://github.com/renato0x/Transcrypty">Source</a></p>
     </td>
