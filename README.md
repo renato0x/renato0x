@@ -109,3 +109,11 @@
 <p align="center">
   <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renato0x&amp;theme=github_dark" alt="Renato's GitHub contribution summary" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renato0x/renato0x/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renato0x/renato0x/output/snake-light.svg" />
+    <img width="96%" alt="GitHub contribution activity" src="https://raw.githubusercontent.com/renato0x/renato0x/output/snake-dark.svg" />
+  </picture>
+</p>
