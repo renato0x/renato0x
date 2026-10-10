@@ -87,7 +87,6 @@
     &nbsp;·&nbsp;
     <a href="https://www.gastaovalle.com/pages/equipe-dev.html">Equipe do projeto</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/renato0x/SUB-SEEMG/stargazers">★ 0</a>
   </p>
 
 </div>
