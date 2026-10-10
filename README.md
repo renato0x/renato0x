@@ -74,6 +74,8 @@
   <p>Atuei como desenvolvedor full stack no projeto Biblioteca Gastão Valle e atualmente participo de sua refatoração para o SUB.</p>
 
   <p>
+    <a href="https://github.com/renato0x/SUB-SEEMG"><strong>Ver projeto ↗</strong></a>
+    &nbsp;·&nbsp;
     <a href="https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca"><strong>Matéria oficial ↗</strong></a>
     &nbsp;·&nbsp;
     <a href="https://www.gastaovalle.com/pages/equipe-dev.html">Equipe do projeto</a>
