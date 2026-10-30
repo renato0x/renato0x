@@ -6,6 +6,7 @@
   </picture>
 
   <p>Building practical software across web, desktop, and automation.</p>
+  <p><a href="https://renatoox.vercel.app/"><strong>View my portfolio ↗</strong></a></p>
 </div>
 
 ---
