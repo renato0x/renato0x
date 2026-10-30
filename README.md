@@ -103,8 +103,8 @@
 ### GitHub analytics
 
 <p align="center">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=renato0x&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" alt="Renato's GitHub stats" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato0x&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark" alt="Renato's most used languages" />
+  <img width="54%" src="https://github-stats-extended.vercel.app/api?username=renato0x&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" alt="Renato's GitHub stats" />
+  <img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=renato0x&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark" alt="Renato's most used languages" />
 </p>
 
 <p align="center">
