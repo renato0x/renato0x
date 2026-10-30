@@ -42,15 +42,9 @@ Portal institucional do Grêmio Estudantil Revalle para notícias, projetos e in
 
 ### [SUB · Sistema Único Bibliotecário](https://github.com/renato0x/SUB-SEEMG)
 
-Sistema de gestão de bibliotecas em desenvolvimento para a rede estadual de ensino de Minas Gerais. Atuei como desenvolvedor full stack no Biblioteca Gastão Valle e hoje participo da refatoração para o SUB.
+Sistema de gestão de bibliotecas em desenvolvimento. Atuei como desenvolvedor full stack no Biblioteca Gastão Valle e hoje participo da refatoração para o SUB.
 
 `C#` · `SQL Server Compact (SQL CE)` · [Iniciativa da SEE/MG](https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca) · [Equipe do projeto](https://www.gastaovalle.com/pages/equipe-dev.html)
-
-## Em construção
-
-**Entreggo** — sistema inicial para organizar e acompanhar entregas de forma mais simples.
-
----
 
 <div align="center">
 
