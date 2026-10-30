@@ -20,6 +20,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFNMG, em Minas Gerai
 
 ## Projetos em destaque
 
+### [Meu portfólio](https://renatoox.vercel.app/)
+
+Uma seleção dos meus projetos, experiências e formas de contato em um só lugar.
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+
 ### [CashPad](https://cashpadapp.vercel.app/)
 
 Divisão de gastos para grupos, com saldos em tempo real e sincronização entre dispositivos.
@@ -46,8 +52,3 @@ Sistema de gestão de bibliotecas em desenvolvimento. Atuei como desenvolvedor f
 
 `C#` · `SQL Server Compact (SQL CE)` · [Iniciativa da SEE/MG](https://www.agenciaminas.mg.gov.br/noticia/estudantes-de-escola-estadual-desenvolvem-sistema-para-modernizar-biblioteca) · [Equipe do projeto](https://www.gastaovalle.com/pages/equipe-dev.html)
 
-<div align="center">
-
-Quer ver mais do meu trabalho? [Acesse meu portfólio](https://renatoox.vercel.app/).
-
-</div>
