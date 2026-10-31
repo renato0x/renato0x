@@ -6,7 +6,7 @@
   </picture>
 
   <p>Building practical software across web, desktop, and automation.</p>
-  <h2><a href="https://renatoox.vercel.app/">→ Visit renatoox.vercel.app</a></h2>
+  <h3><a href="https://renatoox.vercel.app/">→ Visit</a></h3>
 </div>
 
 ---
