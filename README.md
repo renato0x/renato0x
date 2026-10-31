@@ -6,15 +6,15 @@
   </picture>
 
   <p>Building practical software across web, desktop, and automation.</p>
-  <h3><a href="https://renatoox.vercel.app/">→ @ ←</a></h3>
+  <h3><a href="https://renatoox.vercel.app/">	® </a></h3>
 </div>
 
 ---
 
-<div align="center">
+
 ### Stack & tools
 
-
+<div align="center">
 <p>
   <img height="64" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,qt,rust,cs&amp;theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Python, Qt, Rust, and C#" />
 </p>
