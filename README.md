@@ -13,13 +13,10 @@
 
 ### Stack & tools
 
-**Core**
 
 <p align="center">
   <img height="64" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,qt,rust,cs&amp;theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Python, Qt, Rust, and C#" />
 </p>
-
-**Data & workflow**
 
 <p align="center">
   <img height="64" src="https://skillicons.dev/icons?i=firebase,supabase,postgres,sqlite,vercel,git,github,vscode&amp;theme=dark" alt="Firebase, Supabase, PostgreSQL, SQLite, Vercel, Git, GitHub, and VS Code" />
@@ -62,14 +59,7 @@
 
 ---
 
-### Upcoming: Project Entreggo
-
-> **Delivery management, made simpler.**<br />
-> An early-stage system for organizing and tracking deliveries.
-
----
-
-### GitHub analytics
+### Analytics
 
 <p align="center">
   <img width="64%" src="https://github-stats-extended.vercel.app/api?username=renato0x&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" alt="Renato's GitHub stats" />
