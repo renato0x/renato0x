@@ -6,13 +6,16 @@
   </picture>
 
   <p>Building practical software across web, desktop, and automation.</p>
-  <h3><a href="https://renatoox.vercel.app/">	® </a></h3>
+  
 </div>
+
+<h3 align="center"><a href="https://renatoox.vercel.app/">→ website</h3>
+
 
 ---
 
 
-### Stack & tools
+### Stack & tools 
 
 <div align="center">
 <p>
@@ -36,9 +39,8 @@
 
   <h3>SUB · Sistema Único Bibliotecário</h3>
 
-  <p>Sistema unificado de gestão de bibliotecas em desenvolvimento para toda a rede estadual de ensino de Minas Gerais.</p>
-
-  <p>Atuei como desenvolvedor full stack no projeto Biblioteca Gastão Valle e atualmente participo de sua refatoração para o SUB.</p>
+  <p>Atuo como Dev Full Stack no desenvolvimento do projeto governamental SUB
+  </p>
 
   <p><sub><code>C#</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>SQL Server Compact (SQL CE)</code></sub></p>
 
@@ -63,7 +65,7 @@
 ### Analytics
 
 <p align="center">
-  <img width="64%" src="https://github-stats-extended.vercel.app/api?username=renato0x&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" alt="Renato's GitHub stats" />
+  <img width="64%" src="https://github-stats-extended.vercel.app/api?username=renato0x&amp;show_icons=true&amp;hide_border=true&amp;theme=dark" alt="Renato's GitHub stats" />
 </p>
 
 <p align="center">
