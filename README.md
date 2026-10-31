@@ -65,7 +65,7 @@
 ### Analytics
 
 <p align="center">
-  <img width="64%" src="https://github-stats-extended.vercel.app/api?username=renato0x&amp;show_icons=true&amp;hide_border=true&amp;theme=dark" alt="Renato's GitHub stats" />
+  <img width="64%" src="https://github-stats-extended.vercel.app/api?username=renato0x&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" alt="Renato's GitHub stats" />
 </p>
 
 <p align="center">
