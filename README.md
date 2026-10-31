@@ -6,22 +6,23 @@
   </picture>
 
   <p>Building practical software across web, desktop, and automation.</p>
-  <h3><a href="https://renatoox.vercel.app/">→ Não entre ←</a></h3>
+  <h3><a href="https://renatoox.vercel.app/">→ @ ←</a></h3>
 </div>
 
 ---
 
+<div align="center">
 ### Stack & tools
 
 
-<p align="center">
+<p>
   <img height="64" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,qt,rust,cs&amp;theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Python, Qt, Rust, and C#" />
 </p>
 
-<p align="center">
+<p>
   <img height="64" src="https://skillicons.dev/icons?i=firebase,supabase,postgres,sqlite,vercel,git,github,vscode&amp;theme=dark" alt="Firebase, Supabase, PostgreSQL, SQLite, Vercel, Git, GitHub, and VS Code" />
 </p>
-
+</div>
 
 ---
 
