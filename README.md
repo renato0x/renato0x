@@ -27,38 +27,6 @@
 
 ---
 
-### Current projects
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <br />
-      <img src="https://raw.githubusercontent.com/renato0x/CashPad/main/src/icons/icon.svg" width="64" height="64" alt="CashPad icon" />
-      <h3>CashPad</h3>
-      <p>Divisão de gastos para grupos, com saldos em tempo real e sincronização entre dispositivos.</p>
-      <p><code>JavaScript</code> <code>Firebase</code> <code>PWA</code></p>
-      <p><a href="https://cashpadapp.vercel.app"><strong>Open app ↗</strong></a> · <a href="https://github.com/renato0x/CashPad">Source</a></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br />
-      <img src="https://raw.githubusercontent.com/renato0x/Transcrypty/master/logo.bmp" width="64" height="64" alt="Transcrypty icon" />
-      <h3>Transcrypty</h3>
-      <p>Transcrição de voz local, com atalho global, inserção direta e interface flutuante.</p>
-      <p><code>Python</code> <code>PySide6</code> <code>Whisper</code></p>
-      <p><a href="https://github.com/renato0x/Transcrypty/releases"><strong>Download ↗</strong></a> · <a href="https://github.com/renato0x/Transcrypty">Source</a></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br />
-      <img src="https://raw.githubusercontent.com/renato0x/renato0x/main/assets/portal-revalle-mark.png" width="64" height="64" alt="Símbolo do Portal Revalle" />
-      <h3>Portal Revalle</h3>
-      <p>Portal institucional do Grêmio Estudantil Revalle para notícias, projetos e iniciativas estudantis.</p>
-      <p><code>Educação</code> <code>Projeto colaborativo</code> <code>Portal institucional</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### institutional recognition
 
 <div align="center">
@@ -103,12 +71,7 @@
 ### GitHub analytics
 
 <p align="center">
-  <img width="54%" src="https://github-stats-extended.vercel.app/api?username=renato0x&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" alt="Renato's GitHub stats" />
-  <img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=renato0x&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark" alt="Renato's most used languages" />
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renato0x&amp;theme=github_dark" alt="Renato's GitHub contribution summary" />
+  <img width="64%" src="https://github-stats-extended.vercel.app/api?username=renato0x&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" alt="Renato's GitHub stats" />
 </p>
 
 <p align="center">
