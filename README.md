@@ -14,7 +14,7 @@
 ### Stack & tools
 
 **Core**
-
+<div align="center">
 <p>
   <img height="64" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,qt,rust,cs&amp;theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Python, Qt, Rust, and C#" />
 </p>
@@ -25,6 +25,7 @@
   <img height="64" src="https://skillicons.dev/icons?i=firebase,supabase,postgres,sqlite,vercel,git,github,vscode&amp;theme=dark" alt="Firebase, Supabase, PostgreSQL, SQLite, Vercel, Git, GitHub, and VS Code" />
 </p>
 
+</div>
 ---
 
 ### institutional recognition
